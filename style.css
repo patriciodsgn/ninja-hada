@@ -43,5 +43,6 @@ p{
 
 .image{
   height: 300px;
-  border-radius: 60px;
+  margin: auto;
+  border-radius: 40px;
 }
