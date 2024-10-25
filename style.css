@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  font-family: sans-serif;
+  background-color: #ff0077;
+  padding: 100px;
+}
+
+
+
+h1{
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+p{
+  color: #7700ff;
+  font-size: 16px;
+  line-height: 200%;
+}
